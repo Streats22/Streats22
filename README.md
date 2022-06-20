@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Streats22
-- 👀 I’m interested in ...
+- 👀 I’m interested in Front-End, Back-end Php, Laravel and more to come!
 - 🌱 I’m currently learning Web/ Media Dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a lot of projects!
 - 📫 How to reach me info@streatsdesign.com
 
 <!---
